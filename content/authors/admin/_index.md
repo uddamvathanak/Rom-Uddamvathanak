@@ -18,7 +18,7 @@ role: Senior Research Officer
 
 Organization:
   - name: Singapore Immunology Network, Agency of Science Technology and Research
-    url: https://www.a-star.edu.sg/
+  url: https://www.a-star.edu.sg/
 
 # Interest section
 interests:
