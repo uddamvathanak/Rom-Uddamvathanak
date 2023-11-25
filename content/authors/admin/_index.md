@@ -90,7 +90,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
       - name: Data Science
@@ -109,7 +109,7 @@ skills:
     items:
       - name: Bouldering
         description: ''
-        percent: 60
+        percent: 100
         icon: hand-back-fist
         icon_pack: fas
       - name: Cats
