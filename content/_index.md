@@ -236,6 +236,7 @@ sections:
       phone: '+6582076870'
       # appointment_url: 'https://calendly.com'
       address:
+        city: Singapore
         region: Singapore
         country: Singapore
         country_code: SG
