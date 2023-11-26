@@ -251,10 +251,10 @@ sections:
         #   icon_pack: fab
         #   name: DM Me
         #   link: 'https://twitter.com/Twitter'
-        # - icon: skype
-        #   icon_pack: fab
-        #   name: Skype Me
-        #   link: 'skype:echo123?call'
+        - icon: skype
+          icon_pack: fab
+          name: Skype Me
+          link: 'skype:echo123?call'
         - icon: whatsapp
           icon_pack: fab
           name: Chat me
