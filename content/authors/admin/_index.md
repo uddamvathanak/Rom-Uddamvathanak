@@ -25,7 +25,6 @@ interests:
   - 'Technical Exploration: Generative AI, Large Language Model, Explainable AI, Sparse Data Processing, Big Data, Computational Biology, Multi-modal, Computer Vision, Graph Neural Network, Image Processing, Natural language Processing'
   - 'Continuous Learning: Theoretical understanding in Deep Learning and Machine Learning, Responsible AI, Machine Learning Engineer through Google Cloud Platform.'
   - 'Personal Development: Curated Leadership skill learning pathway developed by A*STAR'
-  - 'Hobby: Bouldering'
 
 # Biography
 # bio: 'A passionate and driven machine learning researcher/practitioner, deeply immersed in the captivating realm of artificial intelligence. With over three years of hands-on experience in deep learning and applied machine learning, I have cultivated a strong foundation in cutting-edge techniques and methodologies.
@@ -119,7 +118,7 @@ skills:
     items:
       - name: Bouldering
         description: ''
-        percent: 100
+        percent: 90
         icon: hand-back-fist
         icon_pack: fas
       - name: Cats
@@ -155,7 +154,7 @@ social:
     link: https://github.com/uddamvathanak
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/feed/
+    link: https://www.linkedin.com/in/rom-uddamvathanak/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
