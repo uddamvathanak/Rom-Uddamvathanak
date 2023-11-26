@@ -14,4 +14,5 @@ publishDate: '2023-11-25T14:49:54.789032Z'
 publication_types:
 - paper-conference
 publication: '*2018 International Conference on Intelligent Rail Transportation (ICIRT)*'
+featured: true
 ---
