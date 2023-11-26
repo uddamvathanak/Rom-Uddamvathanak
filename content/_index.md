@@ -1,12 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Rom Uddamvathanak'
-date: 2023-11-25
+title: ''
+date: 2022-10-24
 type: landing
 
 sections:
   - block: hero
-    demo: False # Only display this section in the Hugo Blox Builder demo site
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Hugo Academic Theme
       image:
