@@ -256,7 +256,7 @@ sections:
         #   name: Skype Me
         #   link: 'skype:echo123?call'
         - icon: whatsapp
-          icon_pack: fas
+          icon_pack: fab
           name: Chat me
           link: 'https://wa.me/+6582076870'
       # Automatically link email and phone or display as text?
