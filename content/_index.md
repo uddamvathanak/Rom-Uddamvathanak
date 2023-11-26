@@ -109,7 +109,7 @@ sections:
           title: Machine Learning Engineer Learning Path
           url: 'https://www.cloudskillsboost.google/paths/17'
         - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/track/b523be2fa6120938033f90872fe1f6e6153d62c8
-          date_end: '2020-4-01'
+          date_end: '2020-04-01'
           date_start: '2020-02-01'
           description: 'A good introductory course into data science using python.'
           icon: datacamp
