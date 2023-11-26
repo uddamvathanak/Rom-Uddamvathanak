@@ -233,7 +233,7 @@ sections:
         Open for discussion and contact for work.
       # Contact (add or remove contact options as necessary)
       email: vathanakuddam@gmail.com
-      phone: +6582076870
+      phone: '+6582076870'
       # appointment_url: 'https://calendly.com'
       address:
         country: Singapore
@@ -255,7 +255,7 @@ sections:
         #   icon_pack: fab
         #   name: Skype Me
         #   link: 'skype:echo123?call'
-        - icon: square-whatsapp
+        - icon: whatsapp
           icon_pack: fas
           name: Chat me
           link: 'https://wa.me/+6582076870'
