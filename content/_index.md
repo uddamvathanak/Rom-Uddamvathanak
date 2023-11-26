@@ -70,17 +70,18 @@ sections:
           date_start: '2021-01-03'
           date_end: ''
           description: |2-
+              **Summary:**
               *	Developed innovative computational solutions to improve the accuracy and reliability of Single Cell RNA-seq data analysis, addressing the critical issue of batch integration.
               *	Played a pivotal role in the development and maintenance of DISCOToolkit Python version, a powerful and widely used toolkit that hosts variety annotated atlases data and enables seamless batch integration for Single Cell RNA-seq data.
               *	Applied in-depth knowledge of computational biology, deep learning, and generative AI to enhance the understanding of human Single-Cell Omics data and develop reliable tools for data analysis.
               *	Served as a reviewer for the International Society for Computational Biology (ISCB), contributing to the evaluation of high-quality research in the field of computational biology.
 
-              'Papers:'
+              **Papers:**
               *	'SEDR: Unsupervised Spatial Embedded Deep Representation of Spatial Transcriptomics. (Genome Medicine, Co-author) (Under pre-acceptance)'
               *	'GENEX: Explainable Batch effect removal for Single-cell RNA Sequencing Data.  (RECOMB 2024) (Under review)'
               *	Single Cell Multi-Modality Integration and Cross-modality Imputation with scGUMI. (RECOMB 2024) (Under review)
 
-              'Other Roles:'
+              **Other Roles:**
               *	Verifying Officer, effectively managing and approving requests within the team.
               *	Server Manager, ensuring the smooth operation and maintenance of server infrastructure for research and development activities
     design:
