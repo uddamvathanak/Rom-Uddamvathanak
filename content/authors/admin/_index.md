@@ -90,13 +90,23 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 100
+        percent: 90
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 85
         icon: chart-line
+        icon_pack: fas
+      - name: Deep Learning
+        description: ''
+        percent: 90
+        icon: brain
+        icon_pack: fas
+      - name: Machine Learning
+        description: ''
+        percent: 80
+        icon: robot
         icon_pack: fas
       - name: SQL
         description: ''
@@ -116,6 +126,11 @@ skills:
         description: ''
         percent: 100
         icon: cat
+        icon_pack: fas
+      - name: Coffee
+        description: ''
+        percent: 80
+        icon: coffee-pot
         icon_pack: fas
 
 # Social/Academic Networking
