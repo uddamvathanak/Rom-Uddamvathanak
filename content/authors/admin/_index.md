@@ -130,7 +130,7 @@ skills:
       - name: Coffee
         description: ''
         percent: 80
-        icon: coffee-pot
+        icon: kitchen-set
         icon_pack: fas
 
 # Social/Academic Networking

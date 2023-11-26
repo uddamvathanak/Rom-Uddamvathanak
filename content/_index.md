@@ -62,27 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Senior Research Officer
+          company: Singapore Immunology Network, A*STAR
+          company_url: 'https://www.a-star.edu.sg/sign'
+          company_logo: astar_logo
+          location: Singapore
+          date_start: '2021-01-03'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              *	Developed innovative computational solutions to improve the accuracy and reliability of Single Cell RNA-seq data analysis, addressing the critical issue of batch integration.
+              *	Played a pivotal role in the development and maintenance of DISCOToolkit Python version, a powerful and widely used toolkit that hosts variety annotated atlases data and enables seamless batch integration for Single Cell RNA-seq data.
+              *	Applied in-depth knowledge of computational biology, deep learning, and generative AI to enhance the understanding of human Single-Cell Omics data and develop reliable tools for data analysis.
+              *	Served as a reviewer for the International Society for Computational Biology (ISCB), contributing to the evaluation of high-quality research in the field of computational biology.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              'Papers:'
+              *	'SEDR: Unsupervised Spatial Embedded Deep Representation of Spatial Transcriptomics. (Genome Medicine, Co-author) (Under pre-acceptance)'
+              *	'GENEX: Explainable Batch effect removal for Single-cell RNA Sequencing Data.  (RECOMB 2024) (Under review)'
+              *	Single Cell Multi-Modality Integration and Cross-modality Imputation with scGUMI. (RECOMB 2024) (Under review)
+
+              'Other Roles:'
+              *	Verifying Officer, effectively managing and approving requests within the team.
+              *	Server Manager, ensuring the smooth operation and maintenance of server infrastructure for research and development activities
     design:
       columns: '2'
   - block: accomplishments
