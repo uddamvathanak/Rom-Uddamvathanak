@@ -103,8 +103,8 @@ sections:
           date_end: ''
           date_start: '2023-11-10'
           description: 'Apply theoretical knowledge in ML/DL into cloud-based application.'
-          - icon: google
-            icon_pack: fab
+          icon: google
+          icon_pack: fab
           organization: Google
           organization_url: https://about.google/intl/ALL_sg/
           title: Machine Learning Engineer Learning Path
