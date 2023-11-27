@@ -16,9 +16,9 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_business_type: 'Personal'
     org_name: 'Rom Uddamvathanak'
-    description: 'Rom Uddamvathanak, Data Scientist with knowledge of Deep learning and computational biology.'
+    description: 'Rom Uddamvathanak, Data Scientist with knowledge of Deep learning and computational biology. Single-cell RNA sequencing analysis. Batch integration. Generative model for batch integration. Generative Adversarial Network.'
     # twitter: 'GetResearchDev'
   analytics:
     google_analytics: 'G-ZKT76RE5PY'
