@@ -264,14 +264,15 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          # id: nfp_NEUQtAVEQXmnmf5it8JSfhiEZNiQF8Vw916e
-          id: 8eaOIEX1l45EXeKBV_Z3DIjfTyvMBHA_ULOAvVbzY0Q
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # remove as we dont want to deploy with netlify
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     # id: nfp_NEUQtAVEQXmnmf5it8JSfhiEZNiQF8Vw916e
+      #     id: 8eaOIEX1l45EXeKBV_Z3DIjfTyvMBHA_ULOAvVbzY0Q
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 
