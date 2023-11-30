@@ -1,6 +1,6 @@
 ---
 title: 'GENEX: Explainable Batch effect removal for Single-cell RNA Sequencing Data'
-summary: 'An explainable pproach to solve Batch integration problem in Single-cell RNA sequencing data using Generative model to estimate the variation in the data explicitly for removing the technological artifacts and preserve biological signal.'
+summary: 'An explainable approach to solve Batch integration problem in Single-cell RNA sequencing data using Generative model to estimate the variation in the data explicitly for removing the technological artifacts and preserve biological signal.'
 tags:
   - All
 date: '2023-11-03T00:00:00Z'
