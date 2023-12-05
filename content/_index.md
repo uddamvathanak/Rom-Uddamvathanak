@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2023-12-05
 type: landing
 
 sections:
@@ -233,7 +233,7 @@ sections:
         Open for discussion and contact for work.
       # Contact (add or remove contact options as necessary)
       email: vathanakuddam@gmail.com
-      phone: '+6582076870'
+      # phone: '+6582076870'
       # appointment_url: 'https://calendly.com'
       address:
         city: Singapore
