@@ -23,8 +23,8 @@ Organization:
 # Interest section
 interests:
   - 'Technical Exploration: Generative AI, Large Language Model, Explainable AI, Sparse Data Processing, Big Data, Computational Biology, Multi-modal, Computer Vision, Graph Neural Network, Image Processing, Natural language Processing'
-  - 'Continuous Learning: Theoretical understanding in Deep Learning and Machine Learning, Responsible AI, Machine Learning Engineer through Google Cloud Platform.'
-  - 'Personal Development: Curated Leadership skill learning pathway developed by A*STAR'
+  - 'Continuous Learning: Theoretical understanding in Deep Learning and Machine Learning, Responsible AI, Machine Learning Engineer through Cloud Platform, DevOps, MLOps, Software Development.'
+  - 'Personal Development: Leadership skills and Learning Pathway through LinkedIn Learning.'
 
 # Biography
 # bio: 'A passionate and driven machine learning researcher/practitioner, deeply immersed in the captivating realm of artificial intelligence. With over three years of hands-on experience in deep learning and applied machine learning, I have cultivated a strong foundation in cutting-edge techniques and methodologies.
@@ -87,7 +87,7 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Programming
         description: ''
         percent: 90
         icon: python
@@ -166,5 +166,5 @@ social:
 highlight_name: true
 ---
 
-Rom Uddamvathanak is an enthusiastic machine learning researcher with a strong foundation in cutting-edge techniques and methodologies. Currently focused on generative models and explainable AI, this researcher strives to bridge the gap between AI and human understanding.
+Rom Uddamvathanak is an enthusiastic machine learning researcher with a strong foundation in cutting-edge techniques and methodologies. Currently focused on generative models and explainable AI, this researcher strives to bridge the gap between AI and human understanding. Rom is also passionate about applying these advancements to real-world problems through industry collaborations.
 {style="text-align: justify;"}
