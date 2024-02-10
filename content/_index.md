@@ -77,9 +77,8 @@ sections:
               *	Served as a reviewer for the International Society for Computational Biology (ISCB), contributing to the evaluation of high-quality research in the field of computational biology.
 
               **Papers:**
-              *	'SEDR: Unsupervised Spatial Embedded Deep Representation of Spatial Transcriptomics. (Genome Medicine, Co-author) (Under pre-acceptance)'
-              *	'GENEX: Explainable Batch effect removal for Single-cell RNA Sequencing Data.  (RECOMB 2024) (Under review)'
-              *	Single Cell Multi-Modality Integration and Cross-modality Imputation with scGUMI. (RECOMB 2024) (Under review)
+              *	'SEDR: Unsupervised Spatial Embedded Deep Representation of Spatial Transcriptomics. (Genome Medicine, Co-author)'
+              *	'GENEX: Predicting Cellular Response to perturbation at transcriptomic level using Generative AI. (NMI 2024, Under preparation)'
 
               **Other Roles:**
               *	Verifying Officer, effectively managing and approving requests within the team.
@@ -99,6 +98,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/K5BMLQVQC96R
+          date_end: ''
+          date_start: '2024-02-04'
+          description: 'Manage Azure resources for machine learning; Run experiments and train models; Deploy and operationalize ethical machine learning solutions'
+          icon: microsoft
+          organization: Microsoft
+          organization_url: https://www.microsoft.com/en-sg
+          title: Microsoft Azure Data Scientist Associate (DP-100)
+          url: 'https://www.coursera.org/professional-certificates/azure-data-scientist'
         - certificate_url: https://www.cloudskillsboost.google/public_profiles/df5f6fa5-c5d3-4ddd-a20f-5f0d5ef547e5
           date_end: ''
           date_start: '2023-11-10'
